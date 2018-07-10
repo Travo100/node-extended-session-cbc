@@ -1,0 +1,24 @@
+{
+  "name": "node-extended-session-cbc",
+  "version": "1.0.0",
+  "description": "An extended session for node cbc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travo100/node-extended-session-cbc.git"
+  },
+  "keywords": [
+    "node",
+    "demo",
+    "cbc"
+  ],
+  "author": "Travis Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travo100/node-extended-session-cbc/issues"
+  },
+  "homepage": "https://github.com/Travo100/node-extended-session-cbc#readme"
+}
