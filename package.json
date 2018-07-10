@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Travo100/node-extended-session-cbc/issues"
   },
-  "homepage": "https://github.com/Travo100/node-extended-session-cbc#readme"
+  "homepage": "https://github.com/Travo100/node-extended-session-cbc#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "twitter": "^1.7.1"
+  }
 }
